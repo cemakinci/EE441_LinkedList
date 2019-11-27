@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543704906 source:c:\users\user\desktop\hw2\main.cpp
+	<iostream>
+	"node.h"
+	"link.h"
+
+1543668690 c:\users\user\desktop\hw2\node.h
+
+1543705139 c:\users\user\desktop\hw2\link.h
+	<iostream>
+	<cstdlib>
+	"node.h"
+

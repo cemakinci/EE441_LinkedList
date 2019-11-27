@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1543777139 source:c:\users\user\desktop\e209319_hw2_part2\main.cpp
+	<iostream>
+	"link.h"
+	"PQ.h"
+
+1543777629 c:\users\user\desktop\e209319_hw2_part2\link.h
+	<iostream>
+	<cstdlib>
+	"node.h"
+
+1543668690 c:\users\user\desktop\e209319_hw2_part2\node.h
+
+1543776027 c:\users\user\desktop\e209319_hw2_part2\pq.h
+	"link.h"
+
+1543778172 source:c:\users\user\desktop\ee 4_1\ee441\Ödev\e2093193_hw2\e2093193_hw2_part2\main.cpp
+	<iostream>
+	"link.h"
+	"PQ.h"
+
+1543777629 c:\users\user\desktop\ee 4_1\ee441\Ödev\e2093193_hw2\e2093193_hw2_part2\link.h
+	<iostream>
+	<cstdlib>
+	"node.h"
+
+1543668690 c:\users\user\desktop\ee 4_1\ee441\Ödev\e2093193_hw2\e2093193_hw2_part2\node.h
+
+1543776027 c:\users\user\desktop\ee 4_1\ee441\Ödev\e2093193_hw2\e2093193_hw2_part2\pq.h
+	"link.h"
+
